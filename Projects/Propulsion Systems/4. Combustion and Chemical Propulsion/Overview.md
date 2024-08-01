@@ -1,0 +1,3 @@
+- Fundamentals of combustion
+- Chemical reactions and energy release
+- Design and analysis of combustion chambers

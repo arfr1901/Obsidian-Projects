@@ -1,0 +1,6 @@
+- **Frontend:** JavaServer Faces
+- **Backend:** Jakarta EE (EJB, JPA, CDI, etc)
+- **Database:** PostgreSQL
+- **APIs:** JAX-RS for RESTful services
+- **DevOps and CI/CD:** Docker, Kubernetes, Jenkins
+- **Cloud Platform:** AWS or Azure

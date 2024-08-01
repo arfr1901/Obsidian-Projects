@@ -1,0 +1,1 @@
+   - Develop a simple software tool (possibly on a PC) to read and analyze the stored data. This could be a Python script that plots the data using libraries like matplotlib.

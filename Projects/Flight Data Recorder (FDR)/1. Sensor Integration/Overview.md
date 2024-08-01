@@ -1,0 +1,2 @@
+   - Connect and configure the IMU, barometer, and GPS modules to the Raspberry Pi or Arduino.
+   - Write code to read data from each sensor. This involves understanding and using different communication protocols like I2C, SPI, and UART.

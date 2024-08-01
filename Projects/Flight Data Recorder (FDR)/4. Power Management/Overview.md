@@ -1,0 +1,1 @@
+   - Design a power management system to ensure the FDR can operate for extended periods. This includes selecting a suitable battery and implementing power-saving modes in the code.

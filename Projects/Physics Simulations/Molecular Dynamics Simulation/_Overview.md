@@ -1,0 +1,3 @@
+- **Physics Phenomena:** Interaction of atoms and molecules over time (e.g., chemical reactions, material properties)
+- **Math Involved:** Ordinary Differential Equations, statistical mechanics, thermodynamics, numerical integration
+- **Algorithms/Data Structures:** Verlet integration, neighbor lists, grid-based spatial indexing for efficiency

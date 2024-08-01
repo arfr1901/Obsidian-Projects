@@ -1,0 +1,3 @@
+- Principles of rocket propulsion
+- Solid, liquid, and hybrid rocket engines
+- Thrust, specific impulse, and efficiency

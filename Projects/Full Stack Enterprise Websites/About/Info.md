@@ -1,0 +1,1 @@
+This vault helps me to not lose the knowledge gained during my bachelor's degree in computer science, but it also allows me to learn more and dive deeper into state-of-the art technologies within the industry.

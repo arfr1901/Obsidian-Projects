@@ -1,0 +1,2 @@
+   - Implement basic real-time data processing to calculate derived metrics like velocity, altitude changes, and orientation.
+   - Display these metrics on a connected display, if available.

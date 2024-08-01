@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "cb31fc125e0323f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be98127a580a6cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30ee3a9a568506d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c65ce53960a7c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82249adb949bddfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f59b61ad1ae0197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d9cb3f73f4b5e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e462dfe3931ea4f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa213080f65a86e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca586f23c3bbf3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246ebac651344eb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5865c820fed39b61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11dfa6fc14c224b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58d897c4bbe23112",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f59b61ad1ae0197",
+  "lastOpenFiles": [
+    "Untitled",
+    "N-Body Gravitational Simulation/2body_problem/Math and Physics Formulas.md",
+    "N-Body Gravitational Simulation/2body_problem/Data Structures and Algorithms.md",
+    "N-Body Gravitational Simulation/2body_problem/Code Implementations.md",
+    "N-Body Gravitational Simulation/2body_problem",
+    "N-Body Gravitational Simulation",
+    "Welcome.md"
+  ]
+}

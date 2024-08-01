@@ -1,0 +1,3 @@
+- Electric propulsion: ion thrusters, Hall effect thrusters
+- Nuclear propulsion
+- Emerging technologies: plasma propulsion, solar sails

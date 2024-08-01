@@ -1,0 +1,1 @@
+This vault contains notes, documentation, and educational walkthroughs of all my hobby projects. The purpose of this vault is for me to learn about things I am interested in.

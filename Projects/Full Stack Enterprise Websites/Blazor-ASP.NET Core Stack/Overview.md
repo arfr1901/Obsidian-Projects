@@ -1,0 +1,6 @@
+- **Frontend:** Blazor (C#)
+- **Backend:** ASP.NET Core (C#)
+- **Database:** SQL Server or PostgreSQL
+- **APIs:** ASP.NET Core Web API for RESTful services (C#)
+- **DevOps and CI/CD:** Docker, Kubernetes, Azure DevOps or GitHub Actions
+- **Cloud Platform:** Microsoft Azure or AWS

@@ -1,0 +1,15 @@
+- **Types of spacecraft propulsion**    
+    - Overview of chemical and electric propulsion systems
+    - Comparison of propulsion methods and their applications
+- **Chemical propulsion**
+    - Bipropellant and monopropellant engines
+    - Thrusters and their uses in spacecraft maneuvering
+- **Electric propulsion**
+    - Ion thrusters and Hall effect thrusters
+    - Advantages and limitations of electric propulsion
+- **Advanced propulsion concepts**
+    - Nuclear thermal and nuclear electric propulsion
+    - Emerging technologies and future trends in spacecraft propulsion
+- **Performance metrics**
+    - Specific impulse, thrust-to-weight ratio, and efficiency
+    - Evaluation of propulsion systems for different mission profiles

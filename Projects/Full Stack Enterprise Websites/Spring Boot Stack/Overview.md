@@ -1,0 +1,7 @@
+- **Frontend:** Angular, React, or Vue.js
+- **Backend:** Spring Boot, Spring MVC
+- **Database:** PostgreSQL, MySQL, or MongoDB
+- **Security:** Spring Security
+- **Build Tools:** Maven or Gradle
+- **Containerization, Orchestration:** Docker, Kubernetes
+- **Cloud Platform:** AWS, Azure, or GCP

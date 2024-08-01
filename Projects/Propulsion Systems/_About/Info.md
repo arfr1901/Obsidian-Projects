@@ -1,0 +1,1 @@
+This vault is intended for me to learn about the history of propulsion systems and propulsion engineering. Prerequisites are Thermodynamics, Fluid Mechanics, and Engineering Mathematics

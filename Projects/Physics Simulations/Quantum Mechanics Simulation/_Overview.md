@@ -1,0 +1,3 @@
+- **Physics Phenomena:** Quantum systems and phenomena (e.g., Schrödinger equation) 
+- **Math Involved:** Partial Differential Equations, linear algebra (e.g., eigenvalue problems), statistical mechanics
+- **Algorithms/Data Structures:** Sparse matrices, iterative solvers for large systems, fast Fourier transforms (FFTs) for wave function calculations

@@ -1,0 +1,3 @@
+- **Physics Phenomena:** Behavior of electric and magnetic fields (e.g., Maxwell’s equations) 
+- **Math Involved:** Partial Differential Equations, vector calculus, numerical methods (e.g., Finite-Difference Time-Domain (FDTD) method)
+- **Algorithms/Data Structures:** Sparse matrices for efficient storage of field values, multigrid methods for solving PDEs

@@ -1,0 +1,3 @@
+- Basics of fluid flow
+- Compressible and incompressible flow
+- Aerodynamics and its impact on propulsion
