@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md",
+                "file": "3body_problem/_Overview/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b393a3daba82b40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3body_problem/Preparation/Understanding the Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md",
+                "file": "3body_problem/Preparation/Understanding the Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md",
+                "file": "3body_problem/Preparation/Understanding the Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md"
+                "file": "3body_problem/Preparation/Understanding the Problem.md"
               }
             }
           },
@@ -156,34 +169,38 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1486c1649a7f705d",
+  "active": "b393a3daba82b40a",
   "lastOpenFiles": [
+    "3body_problem/Preparation/Math and Physics Involved.md",
+    "3body_problem/Preparation/Exercises/1. Differential Calculus.md",
+    "3body_problem/_Overview/Overview.md",
+    "3body_problem/Preparation/Project Plan.md",
+    "3body_problem/Preparation/Understanding the Problem.md",
+    "3body_problem/Preparation/Exercises/7. Mathematical Statistics.md",
+    "3body_problem/Preparation/Exercises/10. Series and Transforms.md",
+    "3body_problem/Preparation/Exercises/9. Machine Learning.md",
+    "3body_problem/Preparation/Exercises/8. Data Mining.md",
+    "3body_problem/Preparation/Exercises/2. Integral Calculus.md",
+    "3body_problem/Preparation/Exercises/3. Multivariable Calculus.md",
+    "3body_problem/Preparation/Exercises/4. Classical Mechanics.md",
+    "3body_problem/Preparation/Exercises/5. Orbital Mechanics.md",
+    "3body_problem/Preparation/Exercises/6. Linear Algebra.md",
+    "3body_problem/Preparation/Exercises",
+    "3body_problem/_Overview",
+    "_Overview",
+    "3body_problem/Preparation",
+    "3body_problem/Math and Physics Formulas/Newton's Second Law.md",
+    "Math involved.md",
+    "3body_problem/Math and Physics Formulas/Equations of Motion.md",
     "3body_problem/Math and Physics Formulas/Energy and Momentum Conservation Checks.md",
+    "3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md",
     "3body_problem/DSA Theory/Adaptive Step Size Control.md",
     "3body_problem/DSA Theory/Symplectic Integrators.md",
-    "3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md",
     "2body_problem/DSA Theory/Structs.md",
     "3body_problem/Math and Physics Formulas/Runge-Kutta Methods.md",
     "2body_problem/DSA Theory/Vectors.md",
     "3body_problem/Math and Physics Formulas/Ordinary Differential Equations (ODEs).md",
-    "3body_problem/Math and Physics Formulas/Newton's Second Law.md",
     "3body_problem/Math and Physics Formulas/Gravitational Force.md",
-    "3body_problem/Math and Physics Formulas/Euler Method.md",
-    "3body_problem/Math and Physics Formulas/Equations of Motion.md",
-    "3body_problem/Planning/Project Plan.md",
-    "3body_problem/Code Implementations/Priority Queue.md",
-    "3body_problem/Code Implementations/Simulation Loop.md",
-    "3body_problem/Code Implementations/Collision Detection.md",
-    "2body_problem/Data Structures and Algorithms/Untitled.md",
-    "3body_problem/Code Implementations/kd-trees.md",
-    "3body_problem/Code Implementations/Euler Method.md",
-    "3body_problem/Code Implementations/Barnes-Hut Algorithm.md",
-    "3body_problem/Code Implementations/Runge-Kutta Methods.md",
-    "3body_problem/DSA Theory/Simulation Loop.md",
-    "3body_problem/DSA Theory/Runge-Kutta Methods.md",
-    "3body_problem/DSA Theory/Priority Queues.md",
-    "3body_problem/DSA Theory/kd-trees.md",
-    "3body_problem/DSA Theory/Euler Method.md",
     "2body_problem/Mathematical Formulas",
     "3body_problem/DSA Theory",
     "3body_problem/Code Implementations",

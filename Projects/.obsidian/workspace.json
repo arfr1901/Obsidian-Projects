@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About this vault/About this vault.md",
+                "file": "Inverted Pendulum Control Theory/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About this vault/About this vault.md",
+                "file": "Inverted Pendulum Control Theory/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About this vault/About this vault.md",
+                "file": "Inverted Pendulum Control Theory/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About this vault/About this vault.md"
+                "file": "Inverted Pendulum Control Theory/Overview.md"
               }
             }
           }
@@ -146,8 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba617e947d4404b2",
+  "active": "148a76b8c2c7db57",
   "lastOpenFiles": [
+    "EE Workflow/Pre-requisites.md",
+    "Inverted Pendulum Control Theory/Overview.md",
+    "Inverted Pendulum Control Theory",
+    "EE Workflow/Overview.md",
+    "Flight Simulation/Overview.md",
+    "EE Workflow",
+    "Satellite Comms/Overview.md",
+    "Flight Simulation",
+    "Propulsion Systems/9. Spacecraft Propulsion/Overview.md",
+    "Physics Simulations/Weather Simulation/_Overview.md",
+    "Materials Science and FEA/Overview.md",
+    "Satellite Comms",
+    "GNC and AOCS/Overview.md",
+    "Materials Science and FEA",
+    "About this vault/About this vault.md",
+    "GNC and AOCS",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Planning/Project Plan.md",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Math and Physics Formulas/Stability and Chaos Theory.md",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Math and Physics Formulas/Runge-Kutta Methods.md",
@@ -164,26 +180,10 @@
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/DSA Theory/Priority Queues.md",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/DSA Theory/Euler Method.md",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/DSA Theory/Collision Detection.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/DSA Theory/Barnes-Hut Algorithm.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/DSA Theory/Adaptive Step Size Control.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/kd-trees.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Simulation Loop.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Priority Queue.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Runge-Kutta Methods.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Gravitational Force.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Euler Method.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Collision Detection.md",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations/Barnes-Hut Algorithm.md",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Planning",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Math and Physics Formulas",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/DSA Theory",
     "Physics Simulations/N-Body Gravitational Simulation/3body_problem/Code Implementations",
-    "Physics Simulations/N-Body Gravitational Simulation/3body_problem",
-    "Physics Simulations/N-Body Gravitational Simulation/2body_problem/DSA Theory",
-    "Physics Simulations/N-Body Gravitational Simulation/2body_problem/D&A Theory",
-    "Physics Simulations/N-Body Gravitational Simulation/2body_problem/Mathematical Formulas",
-    "Physics Simulations/N-Body Gravitational Simulation/2body_problem/Untitled",
-    "Physics Simulations/N-Body Gravitational Simulation/2body_problem/Data Structures and Algorithms",
     "Physics Simulations/Untitled.canvas"
   ]
 }
